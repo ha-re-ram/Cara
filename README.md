@@ -1,7 +1,7 @@
 # 🛒 Cara | Modern & Responsive E-commerce Store
 
-[![GitHub license](https://img.shields.io/github/license/ha-re-ram/E-commerce-website?style=for-the-badge)](https://github.com/ha-re-ram/E-commerce-website/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ha-re-ram/E-commerce-website?style=for-the-badge)](https://github.com/ha-re-ram/E-commerce-website/stargazers)
+[![GitHub license](https://img.shields.io/github/license/ha-re-ram/Cara?style=for-the-badge)](https://github.com/ha-re-ram/Cara/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ha-re-ram/Cara?style=for-the-badge)](https://github.com/ha-re-ram/Cara/stargazers)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
 
 **Cara** is a premium, fully responsive front-end e-commerce solution designed with a focus on modern aesthetics, accessibility, and SEO. It offers a seamless shopping experience across all devices, featuring a polished UI and smooth micro-interactions.
@@ -9,7 +9,7 @@
 ---
 
 ## ✨ Project Mockup
-![Project Mockup](ecommerce_mockup_1774807703185.png)
+![Project Mockup](cara_mockup_preview.png)
 *Note: The actual site features vibrant real-world clothing collections.*
 
 ---
@@ -37,7 +37,7 @@
 
 ## 📂 Project Structure
 ```text
-E-commerce-website/
+Cara/
 ├── img/                # Optimized project assets & images
 ├── style.css           # Modular design system with CSS variables
 ├── script.js           # Core interactivity & mobile menu logic
@@ -56,7 +56,7 @@ E-commerce-website/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ha-re-ram/E-commerce-website.git
+git clone https://github.com/ha-re-ram/Cara.git
 ```
 
 ### 2. Open the project
@@ -65,7 +65,7 @@ Simply open `index.html` in any modern web browser or use **Live Server** in VS 
 ---
 
 ## 🔗 Live Demo
-Experience the store live here: [**View Live Project**](https://ha-re-ram.github.io/E-commerce-website/)
+Experience the store live here: [**View Live Project**](http://hareramkushwaha.com.np/Cara)
 
 ---
 
