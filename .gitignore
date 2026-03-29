@@ -1,0 +1,16 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+node_modules/
+.DS_Store
+dist/
+build/
+.env
