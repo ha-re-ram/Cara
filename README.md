@@ -65,7 +65,7 @@ Simply open `index.html` in any modern web browser or use **Live Server** in VS 
 ---
 
 ## 🔗 Live Demo
-Experience the store live here: [**View Live Project**](http://hareramkushwaha.com.np/Cara)
+Experience the store live here: [**View Live Project**](http://hareramkushwaha.com.np/Cara/)
 
 ---
 
